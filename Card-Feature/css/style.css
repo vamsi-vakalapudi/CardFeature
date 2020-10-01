@@ -1,0 +1,29 @@
+* {
+  font-size: 15px;
+  font-family: 'Poppins',sans-serif;
+}
+.font-bold {
+  font-weight: bolder;
+  opacity: 0.8;
+}
+.font-normal {
+  font-size: xx-large;
+}
+.text-grey {
+  color: grey;
+}
+.f-right .img-right {
+  float: right;
+}
+.top-1 {
+  border-top: 3px solid Cyan;
+}
+.top-2 {
+  border-top: 3px solid red;
+} 
+.top-3 {
+  border-top: 3px solid orange;
+}
+.top-4 {
+  border-top: 3px solid blue;
+}
